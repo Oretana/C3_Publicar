@@ -1,0 +1,21 @@
+{
+  "name": "PruebaC3",
+  "description": "Prueba de la librería C3",
+  "main": "index.html",
+  "keywords": [
+    "[pruebac3]"
+  ],
+  "authors": [
+    "MarinaVR mvalentin@situate.es"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Oretana",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
